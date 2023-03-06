@@ -10,6 +10,9 @@
 .heder-bg-phone {
     display: none;
 }
+a {
+    color: white;
+}
 /* header containers*/
 header {
     background: black;
